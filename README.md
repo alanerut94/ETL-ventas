@@ -12,6 +12,3 @@ Este proyecto carga datos de ventas desde un CSV a Google BigQuery, realiza cons
 
 1. Descargar y colocar la clave JSON de la cuenta de servicio (`key.json`) en la carpeta del proyecto.  
 2. Setear variable de entorno en PowerShell:
-
-```powershell
-$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\alane\OneDrive\Desktop\proyecto\key.json"
